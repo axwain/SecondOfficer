@@ -1,0 +1,139 @@
+[
+  {
+    "name": "ilmt",
+    "args": 0,
+    "color": "EE1100",
+    "quotes": [
+      "I love my team! ❤"
+    ],
+    "images": [
+      "https://media1.tenor.com/images/ec2e151bd972c042f6694f8d92f40d03/tenor.gif?itemid=18305372"
+    ]
+  },
+  {
+    "name": "foto",
+    "args": 1,
+    "color": "0099FF",
+    "quotes": [
+      "¡Sonríe! <1>",
+      "<1> posa para la foto de <0>"
+    ],
+    "images": [
+      "https://media.tenor.com/images/d6ac595b6ef282ef8a7f8c1b8fd54cb6/tenor.gif"
+    ]
+  },
+  {
+    "name": "baile",
+    "alias": "dance",
+    "args": 0,
+    "color": "9900FF",
+    "images": [
+      "https://pa1.narvii.com/7398/23cd1eb8ae681be025241f88e27965c5dc8595d9r1-356-360_hq.gif",
+      "https://pa1.narvii.com/7398/ca3861d5902275a85a10577f6788c927a8c04ab4r1-208-360_hq.gif",
+      "https://pa1.narvii.com/7398/184f2cc11f696ad2de4699d25b008104077d9371r1-335-360_hq.gif",
+      "https://pa1.narvii.com/7398/2be6997e161852880b588f7b9943300fb4ed8e9er1-285-360_hq.gif",
+      "https://pa1.narvii.com/7419/ff804596fbbd99d461574c37c42042d619c7ae52r1-368-368_hq.gif",
+      "https://pa1.narvii.com/7419/73e4ce10faca9b4bef54e290dc5cb8158d4d55far1-171-253_hq.gif",
+      "https://pa1.narvii.com/7419/a0223f23e54cd264e75edd813f71f45bb6f212dcr1-161-253_hq.gif",
+      "https://pa1.narvii.com/7734/a1e4d4d623d8a021e51c7b92a97543b872277cbfr1-800-656_hq.gif"
+    ]
+  },
+  {
+    "name": "thankyou",
+    "args": 1,
+    "quotes": [
+      "<0> se puso de tóxico con <1>",
+      "¡Gracias <1> c:!",
+      "<1> recibe amablemente las gracias de <0>",
+      "<0> le manda un gracias a <1>"
+    ]
+  },
+  {
+    "name": "agree",
+    "alias": "ok",
+    "args": 1,
+    "quotes": [
+      "<0> le hizo 👌 a <1>"
+    ]
+  },
+  {
+    "name": "kitear",
+    "args": 1,
+    "quotes": [
+      "<0> se kitea a <1>",
+      "<0> se kitea a <1> pero le hacen Terror Shock 😣",
+      "<1> empieza a perseguir a <0>",
+      "<1> no se deja kitear por <0>",
+      "<0> logró 5 segundos de kiteo contra <1>",
+      "<0> lleva 60 segundos de kitearse a <1>",
+      "<1> atrapa a <0> tras un cipher rush"
+    ]
+  },
+  {
+    "name": "rescue",
+    "alias": "rescatar",
+    "args": 1,
+    "quotes": [
+      "<0> corre a rescatar a <1>",
+      "<0> rescata a <1> pero no hace bodyblock🛡 y lo atrapan de nuevo 😣",
+      "<0> se gana un *Thank You!* por rescatar a <1> sin Tide Turner!!!",
+      "<0> se sacrifica por rescatar a <1>",
+      "<1> no quiere ser rescatado",
+      "<1> es rescatado por <0> pero se queda quieto por lag!!! 😱",
+      "<0> rescata perfectamente a <1>"
+    ]
+  },
+  {
+    "name": "terrorshock",
+    "args": 1,
+    "quotes": [
+      "<0> le pega un *Terror Shock* a <1> por manco 😏",
+      "<0> le hace un *Terror Shock* a <1> ⚡",
+      "<1> le hacen *Terror Shock* mientras decodificaba!"
+    ]
+  },
+  {
+    "name": "senton",
+    "alias": "chair",
+    "args": 1,
+    "quotes": [
+      "<0> le da un sentón a <1> 🪑",
+      "<0> sienta en la silla a <1> mientras todos están lejos",
+      "<1> se ganó un sentón de <1> y nadie va a rescatarle",
+      "<1> es sentado por <0>"
+    ]
+  },
+  {
+    "name": "bonk",
+    "args": 1,
+    "color": "00FF99",
+    "quotes": [
+      "¡Tomá tu bonkazo! <1> cortesía de <0>",
+      "Un *bonk* de <0> para <1>",
+      "<0> *bonk* <1>"
+    ],
+    "images": [
+      "https://media.tenor.com/images/4dee992174206c66cb208bee31174b8d/tenor.gif",
+      "https://media.tenor.com/images/ae34b2d6cbac150bfddf05133a0d8337/tenor.gif",
+      "https://i.kym-cdn.com/photos/images/newsfeed/002/051/063/92e.gif"
+    ]
+  },
+  {
+    "name": "esperandodungeon",
+    "args": 0,
+    "color": "f8edeb",
+    "quotes": [
+      "<0> está esperando a que abra el dungeon",
+      "Las sillas están demoradas en despegar",
+      "<0> se hace viejo",
+      "<0> es mal compañero y prefiere el dungeon que ir a rescatar",
+      "Muerande pronto porfi"
+    ],
+    "images": [
+      "https://c.tenor.com/IQAn8A6UyZMAAAAM/dt-pole-dancing.gif",
+      "https://pa1.narvii.com/7419/527d387ad7ae01c4f08dc9bd5d37fa1aebff10d3r1-179-253_hq.gif",
+      "https://pa1.narvii.com/7419/21c15e5fba4568b05b8973e7595e02f793b62597r1-199-253_hq.gif",
+      "https://pa1.narvii.com/7419/3e2a23f3f1da711fe85d2159244de9273652dd21r1-211-253_hq.gif"
+    ]
+  }
+]
